@@ -5,7 +5,7 @@
       "title": "Sawtooth REST API",
       "description": "_This HTTP pragmatic REST API is built on top of Sawtooth's\nexisting ZMQ/Protobuf infrastructure, simplifying client\ninteraction with the blockchain by exposing endpoints that\nuse common HTTP/JSON standards._\n"
    },
-   "host": "localhost:8008",
+   "host": "46.17.108.38:8008",
    "paths": {
       "/batches": {
          "post": {
